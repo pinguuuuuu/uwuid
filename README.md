@@ -1,2 +1,2 @@
 # uwuid
-An amazing JS and GO package for creating cool UUID.
+An amazing GO package for creating cool UUID.
